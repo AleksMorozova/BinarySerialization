@@ -1,0 +1,11 @@
+D:\Projects\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+D:\Projects\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+D:\Projects\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+D:\Projects\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csprojResolveAssemblyReference.cache
+D:\Projects\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+D:\Projects\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
+D:\Serialization Research\test project\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+D:\Serialization Research\test project\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+D:\Serialization Research\test project\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
+D:\Serialization Research\test project\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+D:\Serialization Research\test project\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
