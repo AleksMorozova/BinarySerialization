@@ -9,3 +9,6 @@ D:\Serialization Research\test project\BinarySerialization\BinarySerialization\o
 D:\Serialization Research\test project\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
 D:\Serialization Research\test project\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
 D:\Serialization Research\test project\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+D:\PrizmDemoProject\BinarySerialization\BinarySerialization\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+D:\PrizmDemoProject\BinarySerialization\BinarySerialization\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+D:\PrizmDemoProject\BinarySerialization\BinarySerialization\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb
